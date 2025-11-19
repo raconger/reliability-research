@@ -6,6 +6,27 @@ Compiled through comprehensive parallel research from standards bodies, major co
 
 ---
 
+## 📱 Download as Ebook
+
+**NEW!** The entire encyclopedia is now available as a Kindle-ready ebook:
+
+- **Format:** EPUB (compatible with Kindle 2022+ and all Kindle apps)
+- **File:** `ebook-output/Reliability-Asset-Management-Encyclopedia.epub`
+- **Size:** 373 KB
+- **Content:** All 250,000+ words across 16 documents with full table of contents
+
+### Quick Transfer to Kindle:
+1. 📧 **Email method** (easiest): See [QUICK-START.md](./QUICK-START.md) - 2 minutes!
+2. 🔌 **USB cable**: Copy EPUB to Kindle's Documents folder
+3. 📖 **Full guide**: See [KINDLE-TRANSFER-GUIDE.md](./KINDLE-TRANSFER-GUIDE.md)
+
+### Rebuild Ebook:
+```bash
+./build-ebook.sh
+```
+
+---
+
 ## 📖 Table of Contents
 
 ### Core Technologies & Methods
