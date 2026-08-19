@@ -1,3 +1,5 @@
+> **⚠️ DEPRECATED (2026-08-19)**: This repo's content has been consolidated into `chatapm/rcm-knowledge-base/` (the RAG-backed knowledge source ChatAPM actually queries) as part of a portfolio-wide knowledge base consolidation. Treat this repo as a frozen historical snapshot, not an active source — new reliability/CBM/APM content should go into `chatapm/rcm-knowledge-base/` directly. See `chatapm/rcm-knowledge-base/WORK-QUEUE.md` for what's been migrated so far and what's still pending.
+
 # Reliability and Asset Management Encyclopedia
 
 > **Expert-level research encyclopedia covering the complete landscape of reliability, condition-based maintenance, predictive maintenance, and asset management**
